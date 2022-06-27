@@ -85,6 +85,8 @@ This custom markup has been created with files from Halo 5 and Infinite servers,
 
  > Infection Settings (From H5)
 
+ > Sportsball Settings (From H5)
+
 ## Special Thanks To:
 - Zeny
 - Soupstream
