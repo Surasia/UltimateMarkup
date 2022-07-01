@@ -91,3 +91,4 @@ This custom markup has been created with files from Halo 5 and Infinite servers,
 - Zeny
 - Soupstream
 - Senful
+- Jared
