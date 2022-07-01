@@ -4,7 +4,7 @@ Ultimate-Markup is a custom binary file made to replace the "custom game markup"
 
 This custom markup has been created with files from Halo 5 and Infinite servers, using markups from Halo 5 Forge build 1.194.6192.2 and Halo Infinite build 222249.22.06.08.1730-0.hirc.
 
-**Halo Infinite © Microsoft Corporation. Halo 5 Forge © Microsoft Corporation. SurasiaMarkup was created under Microsoft's "Game Content Usage Rules" using assets from Halo Infinite and Halo 5 Forge, and it is not endorsed by or affiliated with Microsoft.**
+**Halo Infinite © Microsoft Corporation. Halo 5 Forge © Microsoft Corporation. UltimateMarkup was created under Microsoft's "Game Content Usage Rules" using assets from Halo Infinite and Halo 5 Forge, and it is not endorsed by or affiliated with Microsoft.**
 
 ## Installation:
 ------------
