@@ -1,4 +1,4 @@
-# SurasiaMarkup
+# UltimateMarkup
 ## Overview:
 Surasia-Markup is a custom binary file made to replace the "custom game markup" of a gamemode, which is a list of parameters that allow for a variety of options to be configured. Any configuration made with this file will work online, offline and on LAN, as long as the host has this custom markup. However, saving settings to your file share is not supported, as the UGC (User Generated Content) server does not have the markup present.
 
