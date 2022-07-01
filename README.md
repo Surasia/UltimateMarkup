@@ -62,6 +62,10 @@ This custom markup has been created with files from Halo 5 and Infinite servers,
 
  > Team 8 [Hazard] 
 
+ > Bot Customization Enable/Disable
+
+ > Bot Backfill Enable/Disable
+
 **Surasia's Options:**
  > Intro Cinematic On/Off
  
@@ -86,6 +90,8 @@ This custom markup has been created with files from Halo 5 and Infinite servers,
  > Infection Settings (From H5)
 
  > Sportsball Settings (From H5)
+ 
+ > Misc
 
 ## Special Thanks To:
 - Zeny
