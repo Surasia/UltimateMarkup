@@ -13,85 +13,115 @@ This custom markup has been created with files from Halo 5 and Infinite servers,
 
 ## Added Options:
 **Weapons**:
- > M392 Bandit
-
- > Scrap Cannon
-
- > Armament Blaster
-
- > Jorge's Chaingun
-
- > SAW
-
- > Spiker
-
- > Spiker [Hyperius Chopper]
-
- > H5 Shotgun
-
- > Hannibal Scorpion Laser
-
- > Unarmed
-
- > Bomb
-
- > Golf Club
-
- > Marker
-
- > Skull
-
- > Skull [Escalation]
-
- > Flagnum
-
- > Extraction Device
-
- > Cougar Grenade Launcher
+- M392 Bandit
+- Scrap Cannon
+- Armament Blaster
+- Jorge's Chaingun
+- SAW
+- Spiker
+- Spiker [Hyperius Chopper]
+- H5 Shotgun
+- Hannibal Scorpion Laser
+- Unarmed
+- Bomb
+- Golf Club
+- Marker
+- Skull
+- Skull [Escalation]
+- Flagnum
+- Extraction Device
+- Cougar Grenade Launcher
+- Banshee Bomb (Banished)
+- Banshee Gun
+- Banshee Gun (Banished)
+- Chaingun (Detached)
+- Chaingun Mounted
+- Chopper Healing
+- Fuel Rod Cannon
+- Fusion Coil
+- Gauss Turret (Detached)
+- Gauss Turret (First Person)
+- Ghost Gun
+- Ghost Gun (Banished)
+- Ghost Gun (Boss)
+- Gungoose Gun
+- Heatwave Prototype
+- Hunter Arm
+- Hunter Arm (Spew)
+- Horn (Mongoose)
+- Horn (Warthog)
+- Pelican Chaingun
+- Phantom Gun
+- Plasma Turret (Detached)
+- Plasma Turret (First Person)
+- Plasma Turret (Mounted)
+- Proto MG (Bots Only)
+- Rocket Laucher (Detached)
+- Rocket Pod
+- Rockethog Rocket
+- Scorpion Turret
+- Scrap Cannon (Detached)
+- Scrap Cannon (First Person)
+- Scrap Cannon (Mounted)
+- Shade Blast (Boss)
+- Shade Mortar (Armored)
+- Shade Mortar (Boss)
+- Shade Plasma Cannon
+- Shade Plasma Cannon (Banished)
+- Shade Shock Flak
+- Stinger Gun (Mounted)
+- Tank Gun
+- VK78 Commando (NHM)
+- Warthog Chaingun
+- Wasp Chaingun
+- Wasp Shock Bomb
+- Wasp Shotgun
+- Wasp Rocket
+- Wraith Mortar (Reach)
+- Wraith Turret
+- Wraith Turret (Boss)
 
 **Bots**:
- > Team 3 [Hades]
+- Team 3 [Hades]
  
- > Team 4 [Valkyrie] 
+- Team 4 [Valkyrie] 
 
- > Team 5 [Rampart] 
+- Team 5 [Rampart]
 
- > Team 6 [Cutlass]
+- Team 6 [Cutlass]
 
- > Team 7 [Valor] 
+- Team 7 [Valor] 
 
- > Team 8 [Hazard] 
+- Team 8 [Hazard] 
 
- > Bot Customization Enable/Disable
+- Bot Customization Enable/Disable
 
- > Bot Backfill Enable/Disable
+- Bot Backfill Enable/Disable
 
-**Surasia's Options:**
- > Intro Cinematic On/Off
- 
- > Thruster Pack On/Off
+**Added Options**
+- Thruster Pack speed
+- Map Intro enable/disable
+- Slayer, CTF, Attrition, KOTH, Oddball, Strongholds, Practice, Infection(H5), and Sportsball [H5] options
 
- > Thruster Pack Speed
-
- > Slayer Settings
-
- > CTF Settings
-
- > Attrition Settings
-
- > KOTH Settings
-
- > Oddball Settings
-
- > Strongholds Settings
-
- > Practice Settings
-
- > Infection Settings (From H5)
-
- > Sportsball Settings (From H5)
- 
- > Misc
+**Expanded Options**
+- Grenade Throw Time
+- Grenade Explosion Radius
+- Grenade Knockback/Impulse
+- Melee Knockback/Impulse
+- Motion Track Inner-Ring
+- Shield Vampirism
+- Max Health
+- Movement Speed
+- Forward/Back Speed Scalar
+- Foward/Back Acceleration Scalar
+- Strafe Speed Scalar
+- Strafe Acceleration Scalar
+- Sprint Speed Scalar
+- Time to Sprint Scalar
+- Slide Speed Scalar
+- Slide Distance Scalar
+- Jump Height
+- Clamber Speed
 
 ## Special Thanks To:
 - Zeny
