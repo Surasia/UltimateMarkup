@@ -21,7 +21,7 @@ This custom markup has been created with files from Halo 5 and Infinite servers,
 
 6. Back in the Fiddler menu, go to the AutoResponder tab and enable the first three options.
 
-7. Create a new rule with "CustomGamesUIMarkup" and then respond with UltimateMarkup, then save.
+7. Create a new rule with "CustomGamesUIMarkup" and then respond with UltimateMarkup.bin, then save.
 
 You should now be set.
 
