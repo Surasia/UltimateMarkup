@@ -15,7 +15,7 @@ This custom markup has been created with files from Halo 5 and Infinite servers,
 
 3. Delete the "webcache" directory you can find in [INSTALL/disk_cache/webcache]
 
-4. Open up a command prompt, and run "netsh winhttp import proxy source=ie" with administrator privileges.
+4. Open up a command prompt, and run "Netsh winhttp set proxy 127.0.0.1:8888" with administrator privileges.
 
 5. Open Fiddler, go to preferences and enable HTTPS Decryption.
 
