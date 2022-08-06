@@ -7,9 +7,23 @@ This custom markup has been created with files from Halo 5 and Infinite servers,
 **Halo Infinite © Microsoft Corporation. Halo 5 Forge © Microsoft Corporation. UltimateMarkup was created under Microsoft's "Game Content Usage Rules" using assets from Halo Infinite and Halo 5 Forge, and it is not endorsed by or affiliated with Microsoft.**
 
 ## Installation:
-------------
+**UltimateMarkup Installation**
 
+1. Download Fiddler Classic from https://www.telerik.com/fiddler/fiddler-classic
 
+2. Install Fiddler
+
+3. Delete the "webcache" directory you can find in [INSTALL/disk_cache/webcache"
+
+4. Open up a command prompt, and run "netsh winhttp import proxy source=ie" with administrator privileges.
+
+5. Open Fiddler, go to preferences and enable HTTPS Decryption.
+
+6. Back in the Fiddler menu, go to the AutoResponder tab and enable the first three options.
+
+7. Create a new rule with "CustomGamesUIMarkup" and then respond with UltimateMarkup, then save.
+
+You should now be set.
 
 ## Added Options:
 **Weapons**:
