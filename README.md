@@ -13,7 +13,7 @@ This custom markup has been created with files from Halo 5 and Infinite servers,
 
 2. Install Fiddler
 
-3. Delete the "webcache" directory you can find in [INSTALL/disk_cache/webcache"
+3. Delete the "webcache" directory you can find in [INSTALL/disk_cache/webcache]
 
 4. Open up a command prompt, and run "netsh winhttp import proxy source=ie" with administrator privileges.
 
@@ -22,6 +22,8 @@ This custom markup has been created with files from Halo 5 and Infinite servers,
 6. Back in the Fiddler menu, go to the AutoResponder tab and enable the first three options.
 
 7. Create a new rule with "CustomGamesUIMarkup" and then respond with UltimateMarkup.bin, then save.
+
+8. When you're done, run "netsh winhttp reset proxy" in administrator.
 
 You should now be set.
 
