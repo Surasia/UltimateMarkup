@@ -9,6 +9,8 @@ This custom markup has been created with files from Halo 5 and Infinite servers,
 ## Installation:
 **UltimateMarkup Installation**
 
+IMPORTANT: ONCE YOU ARE DONE, RUN "netsh winhttp reset proxy" in an administrator command prompt!
+
 1. Download Fiddler Classic from https://www.telerik.com/fiddler/fiddler-classic
 
 2. Install Fiddler
@@ -23,11 +25,9 @@ This custom markup has been created with files from Halo 5 and Infinite servers,
 
 7. Create a new rule with "CustomGamesUIMarkup" and then respond with UltimateMarkup.bin, then save.
 
-8. When you're done, run "netsh winhttp reset proxy" in administrator.
-
 You should now be set.
 
-## Added Options:
+## Changed Options:
 **Weapons**:
 - M392 Bandit
 - Scrap Cannon
